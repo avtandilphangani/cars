@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import sys
+import sqlite3
 from PyQt5.QtWidgets import QMainWindow, QTextEdit, QAction, QApplication
 from PyQt5.QtGui import QIcon
 
